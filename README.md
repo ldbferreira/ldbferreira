@@ -1,16 +1,40 @@
-## Hi there 👋
+# Lucas Ferreira
 
-<!--
-**ldbferreira/ldbferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou profissional de tecnologia com 22 anos de carreira, combinando gestão de projetos, liderança de equipes e atuação técnica em desenvolvimento e qualidade de software.
 
-Here are some ideas to get you started:
+Minha experiência inclui projetos nos setores bancário, público e em multinacionais. Gerenciei uma equipe de 60 profissionais em contrato da CAIXA, liderei iniciativas de qualidade e automação e participei da evolução de processos de desenvolvimento em grandes organizações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoje, como fundador da IQLabs, desenvolvo produtos que conectam inteligência artificial, engenharia de software e necessidades de negócio.
+
+## O que estou construindo
+
+### Dió — IA Cético
+
+Plataforma de IA generativa com orquestração de agentes, recuperação de conhecimento e observabilidade.
+
+### IQMock
+
+Solução de virtualização de serviços para apoiar o desenvolvimento e os testes de sistemas, reduzindo a dependência de integrações e ambientes externos.
+
+## Áreas de atuação
+
+- Gestão de projetos de tecnologia e liderança de equipes.
+- Desenvolvimento de produtos digitais e arquitetura de soluções.
+- IA aplicada, sistemas multiagentes e integração de LLMs.
+- Qualidade de software, automação de testes e virtualização de serviços.
+
+## Tecnologias e ferramentas
+
+**Engenharia e infraestrutura:** Python · Java · Spring Boot · Docker · AWS · Azure DevOps
+
+**Inteligência artificial:** LangChain · Langfuse · RAG · MCP
+
+**Qualidade de software:** Playwright · Parasoft · Service Virtualization · Test Data Management
+
+## Certificação obtida
+
+**Advanced Certified ScrumMaster® (A-CSM)** — Scrum Alliance
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/lucasdbferreira/)
