@@ -10,7 +10,7 @@ Hoje, como fundador da IQLabs, desenvolvo produtos que conectam inteligência ar
 
 ### Dió — IA Cético
 
-Plataforma de IA generativa com orquestração de agentes, recuperação de conhecimento e observabilidade.
+Plataforma de investigação e produção de conteúdo com agentes especializados, pesquisa de fontes, revisão adversarial, auditoria de fidelidade e aprovação humana. Orquestração própria com NestJS, pg-boss e PostgreSQL, integração de modelos via OpenRouter e rastreabilidade de execuções, tokens e custos.
 
 ### IQMock
 
@@ -45,11 +45,31 @@ As correções tratam situações em que uma chamada ao modelo era realizada e c
 
 ## Tecnologias e ferramentas
 
-**Engenharia e infraestrutura:** Python · Java · Spring Boot · Docker · AWS · Azure DevOps
+### Inteligência artificial e sistemas de agentes
 
-**Inteligência artificial:** LangChain · Langfuse · RAG · MCP
+- **Modelos e integrações:** GPT, Claude e Gemini; integração por APIs e OpenRouter; experiência prática com Qwen em appliance próprio.
+- **Agentes e automação:** sistemas multiagentes, orquestração de etapas especializadas, LangChain, n8n, MCP e workflows persistentes com pg-boss.
+- **Engenharia de prompts e contexto:** instruções por tarefa, seleção de modelos, contratos de saída em JSON e validação de respostas.
+- **Observabilidade e FinOps de IA:** Langfuse, rastreamento de chamadas, análise de tokens e latência, estimativas e reconciliação de custos, limites de orçamento e alertas.
+- **Arquitetura de recuperação de conhecimento:** RAG, embeddings e Pinecone.
+- **Avaliação e governança:** revisão adversarial, auditoria de fidelidade, validações determinísticas, rastreabilidade de evidências e aprovação humana em etapas críticas.
 
-**Qualidade de software:** Playwright · Parasoft · Service Virtualization · Test Data Management
+### Qualidade e engenharia de testes
+
+- **Estratégia de qualidade:** testes baseados em risco, regressão, integração, UAT, quality gates e integração dos testes ao ciclo de desenvolvimento.
+- **Automação de testes:** Selenium, Playwright, Tricentis Tosca, Rational Functional Tester, Rational Test Workbench e JUnit.
+- **APIs e qualidade de código:** Parasoft SOAtest, Jtest e C/C++test; testes de serviços e integrações.
+- **Performance:** JMeter e k6; planejamento e execução de testes de carga e estresse.
+- **Virtualização de serviços e dados de teste:** Parasoft Virtualize, Broadcom/CA DevTest, Service Virtualization, Test Data Management e IQMock; simuladores de transações e redução da dependência de ambientes externos.
+- **Segurança de aplicações:** Fortify e práticas de AppSec com SAST, DAST e MAST.
+- **Sistemas corporativos:** qualidade e automação em SAP S/4HANA e Salesforce, além de sistemas bancários e governamentais críticos.
+
+### Engenharia, infraestrutura e entrega
+
+- **Linguagens e frameworks:** Python, Java, TypeScript, JavaScript, Spring Boot, NestJS, Next.js e React.
+- **Arquitetura e dados:** APIs, microsserviços, PostgreSQL, Prisma e processamento assíncrono.
+- **Infraestrutura e operação:** AWS, Docker, Docker Compose e Kubernetes.
+- **Entrega e colaboração:** CI/CD, GitHub Actions, Azure DevOps e Jira.
 
 ## Certificações obtidas
 
