@@ -51,9 +51,25 @@ As correções tratam situações em que uma chamada ao modelo era realizada e c
 
 **Qualidade de software:** Playwright · Parasoft · Service Virtualization · Test Data Management
 
-## Certificação obtida
+## Certificações obtidas
 
-**Advanced Certified ScrumMaster® (A-CSM)** — Scrum Alliance
+### Agilidade e liderança
+
+- **A-CSM — Advanced Certified ScrumMaster®** — Scrum Alliance.
+- **ACPC — Agile Coach Professional** — CertiProf.
+- **SFC — Scrum Fundamentals** — SCRUMstudy.
+
+### Qualidade e testes de software
+
+- **CTFL** — ISTQB / BSTQB.
+- **CTFL-AT** — ISTQB / BSTQB.
+- **CTAL-TA** — ISTQB / BSTQB.
+- **CTAL-TM** — ISTQB / BSTQB.
+
+### Virtualização de serviços e dados de teste
+
+- **Virtualize Essentials** — Parasoft.
+- **Service Virtualization e TDM — Pre-sales Specialist** — Broadcom (CA Technologies).
 
 ## Contato
 
