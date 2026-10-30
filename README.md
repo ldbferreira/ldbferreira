@@ -16,6 +16,26 @@ Plataforma de IA generativa com orquestração de agentes, recuperação de conh
 
 Solução de virtualização de serviços para apoiar o desenvolvimento e os testes de sistemas, reduzindo a dependência de integrações e ambientes externos.
 
+## Contribuições em projetos open source
+
+### CLOC — suporte a stored procedures SQL em arquivos `.scp`
+
+Adicionei ao CLOC o reconhecimento de arquivos `.scp` como SQL Stored Procedure, com documentação e teste de regressão. A melhoria permite incluir esse código de banco de dados na contagem de linhas de código e comentários, evitando que ele fique fora dos levantamentos por falta de reconhecimento da extensão.
+
+**Aplicação prática:** inventários de software e análises de tamanho mais completos em sistemas que utilizam esse formato.
+
+[Ver contribuição no CLOC](https://github.com/ldbferreira/cloc/tree/feature/add-scp-stored-procedure)
+
+### n8n + Langfuse — confiabilidade na observabilidade de agentes de IA
+
+Implementei correções no nó de integração para preservar os metadados de consumo de tokens entre diferentes cópias dos módulos do LangChain e aguardar o envio dos eventos ao Langfuse antes do encerramento de cada execução. O tratamento contempla sucesso e erro, com testes de regressão.
+
+As correções tratam situações em que uma chamada ao modelo era realizada e cobrada pelo provedor, mas seus registros ou dados de consumo não apareciam corretamente no Langfuse.
+
+**Aplicação prática:** rastreabilidade mais consistente das execuções e melhor visibilidade do consumo de IA para apoiar o acompanhamento de custos e o diagnóstico de falhas.
+
+[Ver contribuição na integração n8n–Langfuse](https://github.com/ldbferreira/n8n-nodes-ai-agent-langfuse/tree/fix/langfuse-cross-module-usage-metadata)
+
 ## Áreas de atuação
 
 - Gestão de projetos de tecnologia e liderança de equipes.
@@ -38,3 +58,4 @@ Solução de virtualização de serviços para apoiar o desenvolvimento e os tes
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/lucasdbferreira/)
+
